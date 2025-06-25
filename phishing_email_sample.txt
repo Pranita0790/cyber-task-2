@@ -1,0 +1,20 @@
+From: "PayPal Support" <support@paypa1.com>
+To: user@example.com
+Subject: Urgent: Account Access Limited
+
+Dear Customer,
+
+We have noticed suspicious activity in your PayPal account. For your protection, your account access has been temporarily limited.
+
+Please confirm your identity by clicking the link below:
+
+https://paypal-security-alert.com/verify
+
+If you do not respond within 48 hours, your account will be permanently suspended.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+PayPal Security Team
+
+Attachment: Account_Verification_Form.zip 
